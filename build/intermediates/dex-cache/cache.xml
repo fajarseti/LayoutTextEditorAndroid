@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\D2A\.android\build-cache\d5a64bc9124f297a7423b6222207487d5dc11691\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="G:\TextEditor\app\build\intermediates\pre-dexed\debug\classes_3ffecd8f45059beee772ed235c07507deb9502f8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\D2A\.android\build-cache\67e4c33ad4cad09fbbc8380bacb6ced38cff9002\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="G:\TextEditor\app\build\intermediates\pre-dexed\debug\classes_114fbc524d1c640cb5109263f1e3e2d6c048b5f0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\D2A\.android\build-cache\e805c456e5fa09a62c49cc65795f2cc360fd3cf7\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="G:\TextEditor\app\build\intermediates\pre-dexed\debug\classes_2bba9160e4d0e639d97f79fcdc53181c56ea9612.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\D2A\.android\build-cache\a7cefc275869749ac728727a625b9b33f100776b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="G:\TextEditor\app\build\intermediates\pre-dexed\debug\classes_6ffd0979b62bc4a945f3abd9f2f033efb76a65b0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\D2A\.android\build-cache\85dc89ec72253dccb7cac411d8b1e0307158095c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="G:\TextEditor\app\build\intermediates\pre-dexed\debug\classes_4dbf85e7e56ff1fb5460624ba70c3ec8280a17ea.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\D2A\.android\build-cache\4a4561890842c5a418eef3132db23f9d3286a895\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="G:\TextEditor\app\build\intermediates\pre-dexed\debug\classes_7e93a587ba716d3e64237f28f7b9d0ab2f0db2f2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\D2A\.android\build-cache\de6dab8189aef4d6bb6c6794ec79b6369428ee31\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="G:\TextEditor\app\build\intermediates\pre-dexed\debug\classes_ad959a7ad8cc97d82626be3f1e6a395b2bb42e9b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\D2A\.android\build-cache\58cd7e70bb84de73911d05f3a03a8c1d6c49f05e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="G:\TextEditor\app\build\intermediates\pre-dexed\debug\classes_117202b7da4838c17d59a7b62632621755f18a6a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\D2A\AppData\Local\Android\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="G:\TextEditor\app\build\intermediates\pre-dexed\debug\constraint-layout-solver-1.0.2_a74e595b699f18792c57abd95839f28a62643054.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\D2A\.android\build-cache\41868a7cc9fe5db934ec8b565d6f859c3e5bec87\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="G:\TextEditor\app\build\intermediates\pre-dexed\debug\classes_34d37e2ddb2f33bada8d8975480bf10aeb9d31a7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\D2A\.android\build-cache\a015838f0d886d44640b7b6eb1f3398525a3537f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="G:\TextEditor\app\build\intermediates\pre-dexed\debug\classes_650ca965fa8f5a27a46568fccd668375efa8eaf4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\D2A\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="G:\TextEditor\app\build\intermediates\pre-dexed\debug\support-annotations-25.3.1_6dfa6e94a75c52653f117ef25db1a92f6d50a5e0.jar" />
+    </item>
+
+</items>
